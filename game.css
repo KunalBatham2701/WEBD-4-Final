@@ -87,7 +87,7 @@ body{
   transform: rotateY(-180deg);
 }
 .card .back-view img{
-  max-width: 40px;
+  max-width:100%;
 }
 .card.flip .front-view{
   transform: rotateY(180deg);
